@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Brutal';
+  src: url('../assets/fonts/Brutal_Light.woff2') format('woff2'),
+    url('../assets/fonts/Brutal_Light.woff') format('woff'),
+    url('../assets/fonts/Brutal_Light.ttf') format('truetype');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Brutal';
+  src: url('../assets/fonts/Brutal_Bold.woff2') format('woff2'),
+    url('../assets/fonts/Brutal_Bold.woff') format('woff'),
+    url('../assets/fonts/Brutal_Bold.ttf') format('truetype');
+  font-weight: bold;
+}
